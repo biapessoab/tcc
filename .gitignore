@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Ambiente virtual
+venv/
+
+# Dados
+data/
